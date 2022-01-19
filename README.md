@@ -25,7 +25,7 @@
   <tr>
   <td width = "50%">
   <br>
-  
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danttis&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danttis" />
   </p>
   </td>
   <td width = "50%">
