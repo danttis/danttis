@@ -9,8 +9,8 @@
   <td width="50%">
  <p align = "center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
-  <img src="https://github.com/danttis/PixelArt/blob/main/a89b3da319e80.5355467815189739142033.svg" alt="r" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/php.png" alt="php" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="git" width="40" height="40"/><img 
  </p>
