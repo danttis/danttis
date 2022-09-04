@@ -1,9 +1,9 @@
-### Hello i'm Dante
+### Hello i'm Dante  
 
 <table width="100%">
   <tr>
-  <th>I’m currently learning</th>
-  <th>Find me at</th>
+  <th>I’m currently learning   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="c" width="30" height="30"/> </th>
+  <th>Find me at <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" alt="c" width="50" height="30"/></th>
   </tr>
   <tr>
   <td width="50%">
@@ -17,7 +17,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is Open Source!<br><br>
+<br><p align="center">Everything here is Open Source! <br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danttis/)
 
 </p>
