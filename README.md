@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
   <th>I’m currently learning   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="c" width="30" height="30"/> </th>
-  <th>Find me at <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" alt="c" width="50" height="30"/></th>
+  <th>Everything here is Open Source! 
   </tr>
   <tr>
   <td width="50%">
@@ -17,11 +17,11 @@
   </td>
   <td width="50%">
 
-<br><p align="center">
+<br><p align="center">   Find me at <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" alt="c" width="50" height="30"/><br><br>
 [![Instagram](https://img.shields.io/badge/E--mail-369?style=flat-square&logo=gmail&logoColor=Red&color=black)](mailto:juniordante@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-369?style=flat-square&logo=instagram&logoColor=pink&color=black)](https://instagram.com/danttis)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danttis/)
-<br>Everything here is Open Source! 
+<br>
 </p>
   </td>
   <tr>
