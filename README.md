@@ -2,22 +2,22 @@
 
 <table width="100%">
   <tr>
-  <th>I’m currently learning   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="c" width="30" height="30"/> </th>
+  <th>I’m currently learning   <img src="./icons/pc.gif" alt="c" width="30" height="30"/> </th>
   <th>Everything here is Open Source! 
   </tr>
   <tr>
   <td width="50%">
  <p align = "center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png" alt="r" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/php.png" alt="php" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="git" width="40" height="40"/><img 
+  <img src="./icons/c.png" alt="c" width="40" height="40"/>
+  <img src="./icons/r.png" alt="r" width="40" height="40"/>
+  <img src="./icons/php.png" alt="php" width="40" height="40"/>
+  <img src="./icons/python.png" alt="python" width="40" height="40"/>
+  <img src="./icons/console.png" alt="git" width="40" height="40"/><img 
  </p>
   </td>
   <td width="50%">
 
-<br><p align="center">   Find me at <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" alt="c" width="50" height="30"/><br><br>
+<br><p align="center">   Find me at <img src="./icons/handshake.gif" alt="c" width="50" height="30"/><br><br>
 [![Instagram](https://img.shields.io/badge/E--mail-369?style=flat-square&logo=gmail&logoColor=Red&color=black)](mailto:juniordante@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-369?style=flat-square&logo=instagram&logoColor=pink&color=black)](https://instagram.com/danttis)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danttis/)
