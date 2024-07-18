@@ -79,7 +79,7 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
 - Análise Estatística
 - Visualização de Dados
 - Processamento de Linguagem Natural (NLP, LLMs)
-- Docker
+- Ferramenta de DevOps (Docker, Git, GitHub, Amazon EC2, Oracle Cloud Infrastructure (OCI)) 
 
 ## Conecte-se Comigo
 [![Instagram](https://img.shields.io/badge/E--mail-369?style=flat-square&logo=gmail&logoColor=Red&color=black)](mailto:contato.jrdantas@gmail.com)
