@@ -4,18 +4,22 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
 
 ## Projetos em destaque no GitHub:
 <table width="100%">
-    <tr>
+     <tr>
+        <td width="33%">
+            <img src="https://github.com/danttis/AI-Data-Analyzer/blob/main/example.gif?raw=true" style="width: 100%; height: auto;">
+        </td>
         <td width="33%">
             <img src="https://github.com/danttis/ChatBot-Ollama/raw/main/img/img.png" style="width: 100%; height: auto;">
         </td>
         <td width="33%">
             <img src="https://github.com/danttis/README-Update-Langflow/raw/main/img1.png" style="width: 100%; height: auto;">
         </td>
-        <td width="33%">
-            <img src="https://raw.githubusercontent.com/danttis/Data-Analyzer/main/img.gif" style="width: 100%; height: auto;">
-        </td>
     </tr>
     <tr>
+        <td >
+            <h3><a href="https://github.com/danttis/AI-Data-Analyzer">AI Data Analyzer</a></h3>
+            <p>Esse projeto utiliza o modelo Llama 3 para realizar análises em qualquer dataset usando linguagem natural, oferecendo uma interface fácil de usar para explorar dados e gerar insights significativos.</p>
+        </td>
         <td >
             <h3><a href="https://github.com/danttis/ChatBot-Ollama">ChatBot Ollama</a></h3>
             <p>Criação de um ChatBot utilizando a arquitetura GPT, com funcionalidades avançadas de processamento de linguagem natural.</p>
@@ -24,26 +28,26 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
             <h3><a href="https://github.com/danttis/README-Update-Langflow">README Update</a></h3>
             <p>Esse repositório usa uma LLM para analisar README do GitHub e gerar um melhor usando Langflow para automatizar a tarefa.</p>
         </td>
-        <td >
-           <h3><a href="https://github.com/danttis/Data-Analyzer">Analisador de dados</a></h3>
-            <p>Este projeto foi desenvolvido principalmente utilizando as seguintes bibliotecas em Python: Streamlit, Pandas, Scikit-Learn, Plotly, Numpy e Statsmodels. Ele possui uma interface simples que permite a interação com o arquivo dataset.csv do usuário.</p>
-        </td>
     </tr>
 </table>
 <br />
 <table width="100%">
     <tr>
         <td width="33%">
+            <img src="https://raw.githubusercontent.com/danttis/Data-Analyzer/main/img.gif" style="width: 100%; height: auto;">
+        </td>
+        <td width="33%">
             <img src="https://github.com/danttis/eleicoes-municipais/raw/main/example_dash.png" style="width: 100%; height: auto;">
         </td>
         <td width="33%">
             <img src="https://github.com/danttis/veiculos-placa-web-scraping/raw/main/exemplo.png" style="width: 100%; height: auto;">
         </td>
-        <td width="33%">
-            <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*QPJz3jpSKlAUo_K0.png" style="width: 100%; height: auto;">
-        </td>
     </tr>
     <tr>
+        <td >
+           <h3><a href="https://github.com/danttis/Data-Analyzer">Analisador de dados</a></h3>
+            <p>Este projeto foi desenvolvido principalmente utilizando as seguintes bibliotecas em Python: Streamlit, Pandas, Scikit-Learn, Plotly, Numpy e Statsmodels. Ele possui uma interface simples que permite a interação com o arquivo dataset.csv do usuário.</p>
+        </td>
         <td >
             <h3><a href="https://github.com/danttis/eleicoes-municipais/">Dashboard Eleições Municipais</a></h3>
             <p>Esse dashboard faz uma análise de dados de eleições municipais, trazendo estatísticas sobre votos de candidatos a vereadores e prefeitos.</p>
@@ -51,10 +55,6 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
         <td >
             <h3><a href="https://github.com/danttis/veiculos-placa-web-scraping">Web Scraping de Veículos por Placa</a></h3>
             <p>Este projeto consiste em um notebook Python que realiza web scraping em sites para extrair informações de veículos a partir da placa.</p>
-        </td>
-        <td >
-           <h3><a href="https://github.com/danttis/eleicoes-municipais/">Update Linear Regression</a></h3>
-            <p>Este repositório contém um Script Python para realizar regressão linear de forma online. A regressão linear online é uma técnica que permite atualizar o modelo conforme novos dados estão disponíveis, sem a necessidade de recalcular o modelo a partir do zero.</p>
         </td>
     </tr>
 </table>
