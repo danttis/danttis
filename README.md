@@ -12,7 +12,7 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
             <img src="https://github.com/danttis/ChatBot-Ollama/raw/main/img/img.png" style="width: 100%; height: auto;">
         </td>
         <td width="33%">
-            <img src="https://github.com/danttis/README-Update-Langflow/raw/main/img1.png" style="width: 100%; height: auto;">
+            <img src="https://github.com/danttis/timeseriesmetrics/blob/main/imgs/theil.png" style="width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -25,8 +25,8 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
             <p>Criação de um ChatBot utilizando a arquitetura GPT, com funcionalidades avançadas de processamento de linguagem natural.</p>
         </td>
         <td >
-            <h3><a href="https://github.com/danttis/README-Update-Langflow">README Update</a></h3>
-            <p>Esse repositório usa uma LLM para analisar README do GitHub e gerar um melhor usando Langflow para automatizar a tarefa.</p>
+            <h3><a href="https://github.com/danttis/README-Update-Langflow">Time Series Metrics</a></h3>
+            <p> <img src="https://static.pepy.tech/badge/timeseriesmetrics" alt="PyPI Downloads"> <br>Este pacote é um conjunto de métricas usadas para analisar o desempenho de modelos preditivos para séries temporais, como MAPE, Theil's U, ARV, ID (Índice de Discordância), WPOCID.</p>
         </td>
     </tr>
 </table>
