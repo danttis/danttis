@@ -25,7 +25,7 @@ Sou cientista de dados e pesquisador acadêmico com mais de 2 anos de experiênc
             <p>Criação de um ChatBot utilizando a arquitetura GPT, com funcionalidades avançadas de processamento de linguagem natural.</p>
         </td>
         <td >
-            <h3><a href="https://github.com/danttis/README-Update-Langflow">Time Series Metrics</a></h3>
+            <h3><a href="https://github.com/danttis/timeseriesmetrics">Time Series Metrics</a></h3>
             <p> <img src="https://static.pepy.tech/badge/timeseriesmetrics" alt="PyPI Downloads"> <br>Este pacote é um conjunto de métricas usadas para analisar o desempenho de modelos preditivos para séries temporais, como MAPE, Theil's U, ARV, ID (Índice de Discordância), WPOCID.</p>
         </td>
     </tr>
