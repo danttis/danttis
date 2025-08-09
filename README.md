@@ -1,8 +1,8 @@
-# Olá, eu sou Junior Dantas!
+# Hello, I'm Junior Dantas!
 
-Tudo aqui é opensource, divirta-se ultilizando ou contribuindo.
+Everything here is open source, feel free to explore.
 
-## Projetos em destaque no GitHub:
+## Featured projects on GitHub:
 <table width="100%">
      <tr>
         <td width="33%">
@@ -17,7 +17,7 @@ Tudo aqui é opensource, divirta-se ultilizando ou contribuindo.
     </tr>
     <tr>
         <td >
-            <h3><a href="https://github.com/danttis/wgrp">AI Data Analyzer</a></h3>
+            <h3><a href="https://github.com/danttis/wgrp">WGRP Package</a></h3>
             <p>  <img src="https://static.pepy.tech/badge/wgrp" alt="PyPI Downloads"> <br> A data science package for analyzing generalized renewal processes. The wgrp package is a powerful data science tool designed for analyzing generalized renewal processes, with a special focus on Weibull-based renewal processes (WGRP).</p>
         </td>
         <td >
