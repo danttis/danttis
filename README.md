@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align='center'>
+  
+### Hi, I'm Dantas 👋 
+### Data Scientist · Brazil 🇧🇷
 
-<!--
-**danttis/danttis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data scientist passionate about statistical modeling, time series analysis, and stochastic processes.
+I build open-source tools for quantitative analysis and experiment with LLM agents applied to real-world problems.
+
+---
+
+## About me
+
+| | |
+|---|---|
+| 🔭 Current focus | Generalized Renewal Processes & LLM Agents |
+| 🛠️ Main tools | Python · R · Jupyter Notebook |
+| 📊 Expertise | Time Series · Bayesian Statistics · ML |
+| 🌍 Location | Brazil |
+
+---
+
+## Featured projects
+
+### [wgrp](https://github.com/danttis/wgrp)
+> Python package for analyzing **generalized renewal processes**, focused on the Weibull distribution. A robust tool for reliability modeling and predictive maintenance.
+---
+
+<div align='center'>
+<sub>📬 Open to collaborations on data science and applied statistics projects</sub>
+</div>
