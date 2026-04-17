@@ -12,17 +12,6 @@ I build open-source tools for quantitative analysis and experiment with LLM agen
 
 ---
 
-## About me
-
-| | |
-|---|---|
-| 🔭 Current focus | Generalized Renewal Processes & LLM Agents |
-| 🛠️ Main tools | Python · R · Jupyter Notebook |
-| 📊 Expertise | Time Series · Bayesian Statistics · ML |
-| 🌍 Location | Brazil |
-
----
-
 ## Featured projects
 
 ### [wgrp](https://github.com/danttis/wgrp)
